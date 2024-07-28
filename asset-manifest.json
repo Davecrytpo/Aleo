@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Aleo/static/css/main.1cb028aa.css",
+    "main.js": "/Aleo/static/js/main.f0a02801.js",
+    "static/js/453.259fe0e9.chunk.js": "/Aleo/static/js/453.259fe0e9.chunk.js",
+    "index.html": "/Aleo/index.html",
+    "main.1cb028aa.css.map": "/Aleo/static/css/main.1cb028aa.css.map",
+    "main.f0a02801.js.map": "/Aleo/static/js/main.f0a02801.js.map",
+    "453.259fe0e9.chunk.js.map": "/Aleo/static/js/453.259fe0e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cb028aa.css",
+    "static/js/main.f0a02801.js"
+  ]
+}
